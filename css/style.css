@@ -1,0 +1,16 @@
+h1 {
+  font-family: 'Inter', sans-serif;
+}
+
+/* Poso colocar a font Family só no body  */
+body, p, a {
+  font-family: 'Open Sans', sans-serif;  
+ }
+
+span {
+  color: #FF9900;
+}
+
+p {
+  color:#7D7987 ;
+}
