@@ -7,10 +7,10 @@ body, p, a {
 
 #hero {
   width: 592px;
-  margin: 0 auto 36px;
+  margin: 0 auto 22px;
 }
 
-hero img {
+ img #hero {
   margin-bottom: 72px;
 }
 
@@ -44,7 +44,6 @@ p {
   margin-left: 28px;
 }
  
-
 .line {
   width: 568px;
   height: 0px;
