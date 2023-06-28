@@ -1,21 +1,18 @@
 /* Poso colocar a font Family só no body  */
-body,
-p,
-a {
+body, p, a {
   font-family: 'Open Sans', sans-serif;
   text-align: center;
   margin: 0;
-}
+ }
 
 #hero {
   width: 592px;
-  margin: 0 auto 72px;
+  margin: 0 auto 36px;
 }
 
 hero img {
   margin-bottom: 72px;
 }
-
 
 h1 {
   font-family: 'Inter', sans-serif;
@@ -29,8 +26,7 @@ h1 span {
   font-weight: bold;
 }
 
-span,
-a {
+span, a {
   color: #FF9900;
 }
 
@@ -47,9 +43,17 @@ p {
 #footer a + a {
   margin-left: 28px;
 }
-#line {
+ 
+
+.line {
   width: 568px;
-  height: 0;
+  height: 0px;
   margin: 0 auto 8px;
-  border: 1px solid #ECEFF2;
+  border: 1px solid #ccc;
+}
+
+#balls {
+  position: fixed;
+  bottom: 0px;
+  right: 0px;
 }
